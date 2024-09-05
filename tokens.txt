@@ -1,0 +1,1 @@
+tokenleri alt alta giricen "" olmadan
