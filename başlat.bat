@@ -1,3 +1,3 @@
 @echo off
-python main.py
+start başlat.bat
 pause
